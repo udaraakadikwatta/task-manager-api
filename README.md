@@ -12,7 +12,7 @@ This is the backend API for the Task Manager App built with Laravel 10.
 ## 🚀 Setup Instructions
 
 ```bash
-cd backend
+cd task-manager-api
 
 # Install dependencies
 composer install
